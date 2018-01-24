@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+.idea/*
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# not ignore
+!.idea/codeStyleSettings.xml
+!.idea/icon.png
+!.idea/icon_dark.png
